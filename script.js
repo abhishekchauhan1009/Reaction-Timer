@@ -34,6 +34,4 @@ document.getElementById("shape").onclick = function () {
     
     
     setTimeout(move, Math.random() * 2000);
-    
-
 }
