@@ -1,0 +1,16 @@
+body {
+  height: 100vh;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  
+  align-items: center;
+}
+
+#shape {
+  width: 200px;
+  height: 200px;
+  background: green;
+  position: absolute;
+  display: none;
+}
